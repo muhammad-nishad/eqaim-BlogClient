@@ -1,4 +1,7 @@
 .blogArea{
     display: flex;
     justify-content: center;
+    padding: 20px;
+    padding-inline: 20px;
+
 }

@@ -12,7 +12,7 @@ const Blog = (props) => {
             </div>
             <div  className="blogArea" >
 
-            <h2>{props?.data?.description}</h2>
+            <p>{props?.data?.description}</p>
             </div>
 
         </>

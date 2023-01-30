@@ -14,11 +14,7 @@ Technologies Used :-
 
 ## Running this project
 
-## Run Locally
-
-
-bash
- set .env file in root directory 
+## Run Locally 
 
 
 Clone the project
@@ -30,7 +26,7 @@ bash
 Go to the project directory backend
 
 bash
-  cd client
+  cd backend
 
 
 Install dependencies

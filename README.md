@@ -4,14 +4,13 @@
 ## About The Project
 <br>
 
-In this project user can add blogs about varities of topic. And  can read the added blogs
+In this project user can add blogs and  can read the added blogs
 Technologies Used :-
 - MongoDB
 - React Js
 - Node Js
 - Express
-- HTML 5
-- Tailwind CSS
+
 
 The project is completely responsive too.
 
